@@ -1,6 +1,7 @@
 # FiveMConnect
 
 A lightweight web redirect page to launch FiveM and connect to a server directly via URL parameters.
+Created for my Discord Server Status Bot connect button
 
 ## Usage
 
