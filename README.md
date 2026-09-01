@@ -21,3 +21,7 @@ If no `ip` parameter is provided, the page displays a prompt allowing you to man
 ## Setup
 
 No build step or dependencies required. Host `index.html`, `styles.css`, and `script.js` on any static file host (GitHub Pages, Cloudflare Pages, Nginx, Vercel, Netlify, etc.).
+
+## License
+
+[MIT](LICENSE) © 2026 CaptSpider4
